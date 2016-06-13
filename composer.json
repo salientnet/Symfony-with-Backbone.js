@@ -29,7 +29,10 @@
         "mopa/bootstrap-bundle": "^3.0",
         "twbs/bootstrap-sass": "3.3.6",
         "components/backbone": "@stable",
-        "components/underscore": "@stable"
+        "components/jquery": "@stable",
+        "components/underscore": "@stable",
+        "devtime/backbone-bundle": "dev-master",
+        "devtime/raffler-bundle": "dev-master"
     },
     "require-dev": {
         "sensio/generator-bundle": "~3.0",

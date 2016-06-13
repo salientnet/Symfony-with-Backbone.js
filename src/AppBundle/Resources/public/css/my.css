@@ -1,0 +1,28 @@
+.container .content {
+  margin-top: 80px;
+}
+
+.edit-form {
+  padding-top: 30px;
+}
+
+.edit-form .form-control {
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  box-shadow: none;
+  border-radius: 0;
+  margin-right: 25px;
+}
+
+.edit-form .form-control:focus {
+  box-shadow: none;
+}
+
+.edit-form .user_about {
+  width: 100% !important;
+}
+
+.edit-form .form-label {
+  margin-bottom: 40px;
+}
